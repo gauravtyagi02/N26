@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: coding-challenge
+Implementation-Version: 1.0.3
+Built-By: gaura
+Implementation-Vendor-Id: com.n26
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/coding-challenge
+Created-By: Maven Integration for Eclipse
+
